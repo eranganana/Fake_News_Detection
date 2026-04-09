@@ -1,0 +1,9 @@
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Large files (if you want to exclude them later)
+# *.csv
+
+# Python cache
+__pycache__/
+*.pyc
