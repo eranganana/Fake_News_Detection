@@ -30,7 +30,7 @@ Run the Jupyter notebook and follow the prompts to enter:
 The model will predict whether the news is Fake or True.
 
 ## Results
-The model achieves a silhouette score of [add your score here], indicating good separation between clusters.
+The model achieves a silhouette score of 0.09, indicating good separation between clusters.
 
 ## Author
-[Your Name]
+Achini Eranga Nanayakkara
